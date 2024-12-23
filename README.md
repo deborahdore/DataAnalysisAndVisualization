@@ -10,10 +10,8 @@
 
 Repo for the course of Data Analysis and Visualization at CentraleDigitalLab@Nice starting from February 2025.
 
+## Course
 
-
-### **13 February 2025: Lesson 1**
-
-- Introduction to Data Analysis
-- Introduction to Python
-- Python Libraries for Data Analysis
+| **Date**    | **Topic**                                                   | **Slides**                                                                                               | **Code & Data**                                                                                                                                                                                                             |
+|-------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 13 Feb 2025 | Introduction to Data Analysis, <br/> Introduction to Python | [Part 1](slides/1A-introduction_to_data_analysis.pdf)<br/>[Part 2](slides/1B-introduction_to_python.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/deborahdore/DataAnalysisAndVisualization/blob/main/notebook/introduction_to_python.ipynb) |
