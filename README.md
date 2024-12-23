@@ -1,8 +1,4 @@
-# DataAnalysisAndVisualization
-
-!!! under construction !!!
-
----
+# DataAnalysisAndVisualization !!! under construction !!!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -11,8 +7,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## Description
-
----
 
 Repo for the course of Data Analysis and Visualization at CentraleDigitalLab@Nice starting from February 2025.
 
