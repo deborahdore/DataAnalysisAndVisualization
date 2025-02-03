@@ -1,6 +1,4 @@
 # DataAnalysisAndVisualization !!! under construction !!!
-## Description
-
 Repo for the course of Data Analysis and Visualization at CentraleDigitalLab@Nice starting from February 2025.
 
 ## Course
