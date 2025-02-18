@@ -2,6 +2,10 @@
 
 Repo for the course of Data Analysis and Visualization at CentraleDigitalLab@Nice starting from February 2025.
 
+## Useful pointers
+- [The Data Visualization Catalogue](https://datavizcatalogue.com)
+- [Python Graph Gallery](https://python-graph-gallery.com)
+
 ## Course
 
 | **Date**    | **Topic**                                                  | **Slides**                                                                                                                                                                             | **Code & Data**                                                                                                                                                                                                             |
