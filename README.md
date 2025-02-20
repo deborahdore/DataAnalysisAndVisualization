@@ -54,7 +54,7 @@ Form groups of 3 students each.
 ### **3. Text Data Encoding (If applicable)**
 
 - Encode categorical data (e.g., one-hot encoding for product categories).
--
+
 
 ### **4. Balance the dataset (If needed)**
 
