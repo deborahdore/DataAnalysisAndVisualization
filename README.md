@@ -23,3 +23,64 @@ Repo for the course of Data Analysis and Visualization at CentraleDigitalLab@Nic
 | 21/02/2025 | Project Work                                               | --                                                                                                                                                                                     | [plotly-example](plotly-example)                                                                                                                                                                                            |
 | 26/02/2025 | Project Work                                               | --                                                                                                                                                                                     |                                                                                                                                                                                                                             |
 | 4/03/2025  | Project Work <br/> & Project Presentation                  | --                                                                                                                                                                                     |                                                                                                                                                                                                                             |
+
+## **Project Outline**
+
+Form groups of 3 students each.
+
+### **1. Dataset Selection and Understanding**
+
+- Choose a dataset from **[Kaggle](https://www.kaggle.com/datasets)** that interests you.
+- The dataset should:
+    - Have **diverse features** (numerical & categorical).
+    - Be **large enough** for meaningful analysis.
+    - Have a **real-world application** (e.g., health, environment, business, sports, etc.).
+
+✅ **Examples of datasets:**
+
+- **Health**: Diabetes trends, heart disease predictors, mental health surveys.
+- **Finance**: Stock prices, cryptocurrency trends, loan default prediction.
+- **Sports**: FIFA player stats, Olympic medalists, NBA game results.
+- **Environment**: Air quality, climate change, forest fires.
+- **E-commerce**: Customer purchases, product reviews, sales trends.
+
+### **2. Data Cleaning**
+
+- Handle **missing values** using imputation or removal techniques.
+- Address **outliers** using statistical methods (e.g., Z-score, IQR).
+- Convert **categorical variables** into numerical formats if needed.
+- Normalize/standardize numerical data where necessary.
+
+### **3. Text Data Encoding (If applicable)**
+
+- Encode categorical data (e.g., one-hot encoding for product categories).
+
+
+### **4. Balance the dataset (If needed)**
+
+- Perform Oversampling or Undersampling if needed.
+
+### **5. Exploratory Data Analysis & Hypothesis Generation**
+
+- Identify key **patterns and trends** in the dataset.
+- Formulate a **hypothesis** (e.g., "Higher customer ratings lead to more sales").
+- Each student should explore a different aspect of the hypothesis (e.g. "Visualize ratings though the seasons" and "
+  explore the age of the customer that gave the higher ratings").
+- Create **basic visualizations** to explore relationships:
+  ✅ Correlation heatmaps  
+  ✅ Histograms & box plots for distributions  
+  ✅ Scatter plots for relationships
+- Perform Dimensionality Reduction to visualize your data if needed.
+
+### **6. Data Visualization & Dash App Development**
+
+Build an **interactive Plotly Dash application** that:
+✅ Displays **key statistics** in an easy-to-read format.  
+✅ Includes **multiple visualizations** (e.g., scatter plots, bar charts, time series).  
+✅ Allows **user interaction** (e.g., dropdowns, filters, sliders).
+
+### **7. Insights & Recommendations**
+
+- Summarize key **findings and trends** from the dataset.
+- Provide **data-driven recommendations** based on analysis.
+- Discuss **challenges faced** and potential future improvements.
