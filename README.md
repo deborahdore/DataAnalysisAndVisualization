@@ -66,7 +66,7 @@ Form groups of 2 students each.
 - Formulate a **hypothesis** (e.g., "Higher customer ratings lead to more sales").
 - Each student should explore at least 2 different aspect of the hypothesis (e.g. "Visualize ratings though the seasons" and "
   explore the age of the customer that gave the higher ratings").
-- Create **basic visualizations** to explore relationships:
+- Create **basic visualizations** to explore relationships:<br>
   ✅ Correlation heatmaps  
   ✅ Histograms & box plots for distributions  
   ✅ Scatter plots for relationships
@@ -74,7 +74,7 @@ Form groups of 2 students each.
 
 ### **6. Data Visualization & Dash App Development**
 
-Build an **interactive Plotly Dash application** that:
+Build an **interactive Plotly Dash application** that: <br>
 ✅ Displays **key statistics** in an easy-to-read format.  
 ✅ Includes **multiple visualizations** (e.g., scatter plots, bar charts, time series).  
 ✅ Allows **user interaction** (e.g., dropdowns, filters, sliders).
