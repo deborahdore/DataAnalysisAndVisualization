@@ -26,7 +26,7 @@ Repo for the course of Data Analysis and Visualization at CentraleDigitalLab@Nic
 
 ## **Project Outline**
 
-Form groups of 3 students each.
+Form groups of 2 students each.
 
 ### **1. Dataset Selection and Understanding**
 
@@ -64,7 +64,7 @@ Form groups of 3 students each.
 
 - Identify key **patterns and trends** in the dataset.
 - Formulate a **hypothesis** (e.g., "Higher customer ratings lead to more sales").
-- Each student should explore a different aspect of the hypothesis (e.g. "Visualize ratings though the seasons" and "
+- Each student should explore at least 2 different aspect of the hypothesis (e.g. "Visualize ratings though the seasons" and "
   explore the age of the customer that gave the higher ratings").
 - Create **basic visualizations** to explore relationships:
   ✅ Correlation heatmaps  
