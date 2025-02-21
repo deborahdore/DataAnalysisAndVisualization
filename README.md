@@ -55,7 +55,6 @@ Form groups of 2 students each.
 
 - Encode categorical data (e.g., one-hot encoding for product categories).
 
-
 ### **4. Balance the dataset (If needed)**
 
 - Perform Oversampling or Undersampling if needed.
