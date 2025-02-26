@@ -7,6 +7,7 @@ Repo for the course of Data Analysis and Visualization at CentraleDigitalLab@Nic
 - [The Data Visualization Catalogue](https://datavizcatalogue.com)
 - [Python Graph Gallery](https://python-graph-gallery.com)
 - [Getting Started with Plotly](https://plotly.com/python/getting-started/)
+- [Git CheatSheet](git-cheat-sheet-education.pdf)
 
 ## Course
 
